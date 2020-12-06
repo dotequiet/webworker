@@ -1,0 +1,15 @@
+/logs
+/node_modules
+/storage/*.key
+/.idea
+/.vscode
+/nbproject
+/.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.DS_Store
+.env
+.env.example
+.phpunit.result.cache
